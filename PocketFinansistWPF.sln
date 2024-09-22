@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocketFinansistWPF", "PocketFinansistWPF.csproj", "{F6AEA71B-70EE-4C6F-B061-6F6AEB0F3E04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6AEA71B-70EE-4C6F-B061-6F6AEB0F3E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6AEA71B-70EE-4C6F-B061-6F6AEB0F3E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6AEA71B-70EE-4C6F-B061-6F6AEB0F3E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6AEA71B-70EE-4C6F-B061-6F6AEB0F3E04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68A2E60F-1FFB-487F-A72E-6C9454A1E559}
+	EndGlobalSection
+EndGlobal
